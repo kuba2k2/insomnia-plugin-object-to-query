@@ -1,0 +1,19 @@
+{
+  "name": "@kuba2k2/insomnia-plugin-object-to-query",
+  "version": "0.1.0",
+  "description": "URL-encode objects as a query string.",
+  "license": "MIT",
+  "insomnia": {
+    "name": "object-to-query",
+    "description": "URL-encode objects as a query string."
+  },
+  "main": "plugin.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuba2k2/insomnia-plugin-object-to-query.git"
+  },
+  "keywords": [
+    "insomnia-plugin"
+  ],
+  "author": "Kuba Szczodrzyński <kuba@szczodrzynski.pl>"
+}
